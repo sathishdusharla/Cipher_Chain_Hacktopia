@@ -86,7 +86,7 @@ const RegistrationForm = () => {
               { name: 'fullName', label: 'Full Name', type: 'text' },
               { name: 'hallTicket', label: 'Hall Ticket Number', type: 'text' },
               { name: 'email', label: 'Email ID (@anurag.edu.in)', type: 'email' },
-              { name: 'branch', label: 'Branch', type: 'text' },
+              { name: 'branch', label: 'Branch (ex: CSE)', type: 'text' },
               { name: 'mobile', label: 'Mobile Number', type: 'tel' },
               { name: 'section', label: 'Section', type: 'text' },
             ].map((field) => (

@@ -54,7 +54,7 @@ export function EventDetails() {
                 <h3 className="font-semibold mb-2 text-white">Eligibility</h3>
                 <ul className="text-gray-300 list-disc list-inside">
                   <li>Open 1st, 2nd, 3rd Year Students</li>
-                  <li>Individual Registrations Only</li>
+                  <li>Team of Only 1 Member</li>
                 </ul>
               </div>
             </div>
@@ -67,6 +67,9 @@ export function EventDetails() {
                   <li>Student ID card</li>
                 </ul>
               </div>
+            </div>
+            <div className="flex items-center justify-center bg-gray-800/50 p-6 rounded-xl border border-gray-700 overflow-hidden">
+               <img src="/ey.png" alt="Event Image" className="w-full h-full object-contain" />
             </div>
           </motion.div>
         </div>

@@ -54,7 +54,7 @@ export function EventDetails() {
                 <h3 className="font-semibold mb-2 text-white">Eligibility</h3>
                 <ul className="text-gray-300 list-disc list-inside">
                   <li>Open 1st, 2nd, 3rd Year Students</li>
-                  <li>Team of Only 1 Member</li>
+                  <li>Individual Registrations Only</li>
                 </ul>
               </div>
             </div>

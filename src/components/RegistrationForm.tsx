@@ -137,7 +137,7 @@ const RegistrationForm = () => {
 
           <div className="text-center">
             <a
-              href="https://chat.whatsapp.com/invite/example"
+              href="https://chat.whatsapp.com/IFcleHJrAfz8La97QxRmEK"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:text-blue-300 block mb-6"

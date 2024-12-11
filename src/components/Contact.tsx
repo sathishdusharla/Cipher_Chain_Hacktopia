@@ -29,7 +29,7 @@ export function Contact() {
             viewport={{ once: true }}
             className="bg-gray-800/50 p-6 rounded-xl border border-gray-700"
           >
-            <h3 className="font-semibold mb-4 text-white">Faculty Coordinator</h3>
+            <h3 className="font-semibold mb-4 text-white">Faculty Conveners</h3>
             <div className="space-y-3">
               <p className="text-gray-300">Mrs.P.Vinayasree</p>
               <div className="flex items-center text-gray-400">
@@ -49,7 +49,7 @@ export function Contact() {
             viewport={{ once: true }}
             className="bg-gray-800/50 p-6 rounded-xl border border-gray-700"
           >
-            <h3 className="font-semibold mb-4 text-white">Event Coordinators</h3>
+            <h3 className="font-semibold mb-4 text-white">Student Conveners</h3>
             <div className="space-y-3">
               <p className="text-gray-300">M.Risha Reddy</p>
               <div className="flex items-center text-gray-400">

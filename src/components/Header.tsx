@@ -79,7 +79,7 @@ export function Header({ universityLogo, clubLogo, bannerImage }: HeaderProps) {
           </div>
           <div className="flex items-center bg-black/20 px-6 py-3 rounded-full backdrop-blur-sm border border-blue-500/20">
             <MapPin className="w-5 h-5 mr-3 text-blue-400" />
-            <span>Seminar Hall, H - Block</span>
+            <span>Seminar Hall, G - Block</span>
           </div>
         </motion.div>
       </div>

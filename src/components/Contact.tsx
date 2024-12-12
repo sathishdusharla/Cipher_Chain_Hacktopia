@@ -34,11 +34,11 @@ export function Contact() {
               <p className="text-gray-300">Mrs.P.Vinayasree</p>
               <div className="flex items-center text-gray-400">
                 <Phone className="w-4 h-4 mr-2 text-blue-400" />
-                <span>+919700280713</span>
+                
               </div>
               <div className="flex items-center text-gray-400">
                 <Mail className="w-4 h-4 mr-2 text-blue-400" />
-                <span>vinayaseecse@anurag.edu.in</span>
+                <span>vinayasree.cse@anurag.edu.in</span>
               </div>
             </div>
           </motion.div>

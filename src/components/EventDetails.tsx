@@ -38,7 +38,7 @@ export function EventDetails() {
               <MapPin className="w-6 h-6 text-blue-400 mr-4 flex-shrink-0" />
               <div>
                 <h3 className="font-semibold mb-2 text-white">Venue</h3>
-                <p className="text-gray-300">Seminar Hall, H - Block</p>
+                <p className="text-gray-300">Seminar Hall, G - Block</p>
               </div>
             </div>
           </motion.div>

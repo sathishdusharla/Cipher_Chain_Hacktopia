@@ -24,7 +24,7 @@ export function EventDetails() {
               <Calendar className="w-6 h-6 text-blue-400 mr-4 flex-shrink-0" />
               <div>
                 <h3 className="font-semibold mb-2 text-white">Date</h3>
-                <p className="text-gray-300">December 13th & 14th, 2024</p>
+                <p className="text-gray-300">December 13th, 2024</p>
               </div>
             </div>
             <div className="flex items-start bg-gray-800/50 p-6 rounded-xl border border-gray-700">
@@ -54,7 +54,7 @@ export function EventDetails() {
                 <h3 className="font-semibold mb-2 text-white">Eligibility</h3>
                 <ul className="text-gray-300 list-disc list-inside">
                   <li>Open 1st, 2nd, 3rd Year Students</li>
-                  <li>Team of Only 1 Member</li>
+                  <li>Team Size 1 - 3 </li>
                 </ul>
               </div>
             </div>

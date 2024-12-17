@@ -40,7 +40,7 @@ const RegistrationForm = () => {
 
     try {
       const response = await fetch(
-        'https://script.google.com/macros/s/AKfycbyk6cSt-euGp2YkIxdBNQVolvqXmv_dFSNuGQ1N9CFdxX-1gse4BJa_SuGbb_enppMoZA/exec',
+        '',
         {
           method: 'POST',
           body: data,
